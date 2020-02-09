@@ -10,7 +10,7 @@ def monopoly_with_third_tier
   	hash={railroads: 
   	{ pieces: 4, 
   	rent_in_dollars: {"1":25, "2":50, "3":100, "4":200},
-  	  names: ["reading", "g", "h", "i"]
+  	  names: {"reading":, "g":, "h":, "i":}
   	}
   	}
 end
